@@ -1,12 +1,13 @@
 # Hi, nice to see you!
 
- **Full Stack Developer** and **Fashion Designer** merging creativity and technology  
-
+ **Full Stack Developer & UX/UI Designer** and **Fashion Designer** merging creativity and technology  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikaahg-desarrolladora-web/)
 ---
 
 ### Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -37,15 +38,9 @@
 
 ---
 
-### About Me
-Based in Mexico  
-Timezone: UTC -6  
-Reach me at: [eahidehernandez@gmail.com](mailto:eahidehernandez@gmail.com)  
 
 ---
 
 ### GitHub Stats
-![Erika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erikaahide&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erikaahide&layout=compact&theme=radical)
 
