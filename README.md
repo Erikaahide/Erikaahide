@@ -1,6 +1,6 @@
 # Hi, nice to see you!
 
- **Full-Stack Developer & Fashion Designer. UI/UX** merging creativity and technology  
+ ## Full-Stack Developer focused on UI/U & Fashion Designer blending creativity and technology  
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikaahg-desarrolladora-web/)
 ---
