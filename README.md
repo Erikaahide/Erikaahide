@@ -1,6 +1,6 @@
 # Hi, nice to see you!
 
- ## Full-Stack Developer focused on UI/U & Fashion Designer blending creativity and technology  
+**Full-Stack Developer focused on UI/UX & Fashion Designer blending creativity and technology**
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikaahg-desarrolladora-web/)
 ---
@@ -39,9 +39,6 @@
 
 ### Learning notes
 - [**FrontendExercise**](https://github.com/Erikaahide/techGuides) — Personal notes and guides on different technologies
----
-
-
 ---
 
 ### GitHub Stats
