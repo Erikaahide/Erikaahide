@@ -38,7 +38,7 @@
 - [**FrontendExercise**](https://github.com/Erikaahide/Odoo) — Technical assessment with Bootstrap and SCSS 
 
 ### Learning notes
-- [**FrontendExercise**](https://github.com/Erikaahide/techGuides) — Personal notes and guides on different technologies
+- [**TechGuides**](https://github.com/Erikaahide/techGuides) — Personal notes and guides on different technologies
 ---
 
 ### GitHub Stats
