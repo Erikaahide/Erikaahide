@@ -30,11 +30,10 @@
 -  [**AprendeShop**](https://github.com/RubiPortuguez/AprendeShop-Backend/tree/develop) – Java + Spring Boot e-commerce backend  
 -  [**AprendeShop**](https://github.com/RubiPortuguez/Aprende-Shop/tree/develop) – HTML + CSS + JavaScript e-commerce full stack
 
-  
-** I’m currently working on **  
--  [**FitApp**](https://github.com/Erikaahide/FitApp) – Nutrition & fitness tracker built with React  
--  [**FrontendExercise**]([https://github.com/Erikaahide/FitApp](https://github.com/Erikaahide/Odoo)) – Technical assessment with Bootstrap and SCSS  
+### I'm currently working on
 
+- [**FitApp**](https://github.com/Erikaahide/FitApp) — Nutrition & fitness tracker built with React
+- [**FrontendExercise**](https://github.com/Erikaahide/Odoo) — Technical assessment with Bootstrap and SCSS 
 
 ---
 
