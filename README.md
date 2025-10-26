@@ -1,6 +1,7 @@
 # Hi, nice to see you!
 
- **Full Stack Developer & UX/UI Designer** and **Fashion Designer** merging creativity and technology  
+ **Full-Stack Developer & Fashion Designer. UI/UX** merging creativity and technology  
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikaahg-desarrolladora-web/)
 ---
 
@@ -36,6 +37,8 @@
 - [**FitApp**](https://github.com/Erikaahide/FitApp) — Nutrition & fitness tracker built with React
 - [**FrontendExercise**](https://github.com/Erikaahide/Odoo) — Technical assessment with Bootstrap and SCSS 
 
+### Learning notes
+- [**FrontendExercise**](https://github.com/Erikaahide/techGuides) — Personal notes and guides on different technologies
 ---
 
 
